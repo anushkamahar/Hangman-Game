@@ -1,6 +1,6 @@
-# CodeAlpha_HangmanGame
+# Hangman-Game
 
-This is a simple Hangman game made using Python. I created this project as part of my CodeAlpha Python Programming Internship.
+This is a simple Hangman game made using Python.
 
 ## About the Game
 
@@ -47,10 +47,6 @@ CodeAlpha_HangmanGame/
 ├── HangmanGame.py
 └── README.md
 ```
-
-## CodeAlpha Internship
-
-This project was completed as **Task 1 - Hangman Game** for the CodeAlpha Python Programming Internship.
 
 ## Author
 
